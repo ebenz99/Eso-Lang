@@ -9,5 +9,7 @@ My tackling of "Hello World" in Piet.
 
 A LOLCODE script for determining annagram-ness. *(in progress)*
 
-__**Prerequisites**__
+__**Prerequisites**__:
+
+
 The LOLCODE Interpreter, which can be found [here](https://github.com/justinmeza/lci).
